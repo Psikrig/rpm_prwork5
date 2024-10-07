@@ -1,0 +1,160 @@
+.backgroung
+{
+    background-image: url("../images/i.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    display: inline-flex;
+    justify-content: space-between safe;
+    flex-wrap: nowrap;
+    flex-direction: column;
+
+}
+.right_flex_header
+{
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+.header
+{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    top: 0;
+    width: 1420px;
+    height: 130px;
+}
+.logo
+{
+    height: 50px;
+    width: 60px;
+    left: 50px;
+    top: 25px;
+}
+.contact
+{
+    
+    height: auto;
+    width: 50px;
+    right: 50px;
+    top: 50px;
+}
+.prodect
+{
+    
+    height: auto;
+    width: 50px;
+    right: 200px;
+    top: 50px;
+}
+
+.footer
+{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    top: 570px;
+    width: 1520px;
+    height: 150px;
+}
+.center
+{
+    width: 400px;
+    height: 800px;
+    align-self: center;
+    display: inline-flex;
+    justify-content: center safe;
+    flex-wrap: nowrap;
+    flex-direction: column;
+
+}
+.center_center
+{    
+    width: auto;
+    height: auto;
+    align-self: center;
+    vertical-align: top;
+}
+.center_top
+{ 
+    
+    height: 50px;
+    width: 100PX;
+
+}
+.center_bottom
+{
+
+    height: 50px;
+    width: 110px;
+    align-self: self-end;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+.text
+{
+    width: auto;
+    height: 20px;
+}
+.social_media
+{
+    height: 150px;
+    width: 50px;
+    top: 0px;
+    left: 50px;
+}
+.fot_left
+{    
+    width: 150px;
+    height: 20px;
+    transform: rotate(90deg);
+}
+img.social
+{
+    height: 50px;
+    width: 50px;
+    display: flex;
+    flex-direction: column;
+}
+p.scroll
+{
+    font-size: 15px;
+    color: white;
+    text-align: right;
+    font-family: 'Segoe UI', Roboto; 
+
+    
+}
+p.logo_text
+{
+    font-size: 30px;
+    color: white;
+    font-family: 'Segoe UI', Roboto;  
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+}
+p.big_text
+{
+    font-size: 200px;
+    color: white;
+    font-family: 'Segoe UI', Roboto;
+    align-self: center;
+    vertical-align: middle;
+}
+p.smal_text
+{
+    font-size: 20px;
+    color: white;
+    font-family: 'Segoe UI', Roboto;
+}
+
